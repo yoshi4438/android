@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"/>
+    <item android:id="@+id/memo1" android:title="メモ１"></item>
+    <item android:id="@+id/memo2" android:title="メモ２"></item>
+    <item android:id="@+id/memo3" android:title="メモ３"></item>
+
+</menu>
